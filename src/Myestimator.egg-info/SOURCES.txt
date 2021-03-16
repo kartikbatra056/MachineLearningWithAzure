@@ -1,0 +1,7 @@
+setup.py
+Myestimator/__init__.py
+Myestimator/myestimator.py
+Myestimator.egg-info/PKG-INFO
+Myestimator.egg-info/SOURCES.txt
+Myestimator.egg-info/dependency_links.txt
+Myestimator.egg-info/top_level.txt

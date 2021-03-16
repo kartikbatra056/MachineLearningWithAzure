@@ -1,0 +1,14 @@
+Metadata-Version: 1.1
+Name: Myestimator
+Version: 0.0.1
+Summary: Python package for my project
+Home-page: UNKNOWN
+Author: Kartik Batra
+Author-email: kartik.batra18@vit.edu
+License: UNKNOWN
+Description: Following package is used to create new columns for fetal health prediction project.
+Keywords: python,package
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
