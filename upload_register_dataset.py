@@ -1,6 +1,7 @@
-# load Libraries
+# A workaround to deal with .NET runtime not available error
 from dotnetcore2 import runtime
 runtime.version = ("18", "10", "0")
+# load Libraries
 from azureml.core import Workspace
 from azureml.core import Dataset
 
