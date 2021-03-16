@@ -36,7 +36,8 @@ Given file trains your model locally and save all other artifacts like model pic
 
 * train and register model - ```python3 ./run_train_model.py```
 
-run_train_model.py runs train_model.py file loacted in ```src``` folder. train_model.py runs a scikit-learn pipeline which preprocesses data,trains model and saves complete pipeline to be used while inference and testing.
+run_train_model.py runs train_model.py file loacted in ```src``` folder. 
+train_model.py runs a scikit-learn pipeline which preprocesses data,trains model and saves complete pipeline to be used while inference and testing.
 Output of Above run is ```fetal-model.pkl``` which is Stored on Azure machine learning interface.
 
 # Run Azure machine learning pipeline
